@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"loding\tabc"
+			],
+			[
+				"st",
+				"state\tabc"
+			],
+			[
+				"validation",
+				"validationMessage\tabc"
+			],
+			[
+				"impo",
+				"implementation"
+			],
+			[
+				"back",
+				"background-color\tabc"
+			],
+			[
+				"margin",
+				"margin-top\tabc"
+			],
+			[
+				"padding-",
+				"padding-top\tabc"
+			],
+			[
+				"c",
+				"center\t(_sign_in_page.scss)"
+			],
+			[
+				"jusit",
+				"justify-content-center"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"rep",
+				"repositories\tabc"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/profile/index.html",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/profile/style.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/stylesheets.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/challenge-1/icecream",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/containers/BurgerBuilder/BurgerBuilder.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/App.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/shared/utility.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/containers/Auth/Auth.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/containers/Checkout/ContactData/ContactData.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/hoc/asyncComponent/asyncComponent.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/actions/auth.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/actions/order.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/index.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/containers/Checkout/Checkout.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/OrderSummary/OrderSummary.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/Burger.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Modal/Modal.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/reducers/burgerBuilder.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/SideDrawer/SideDrawer.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Order/CheckoutSummary/CheckoutSummary.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/reducers/auth.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/reducers/order.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BuildControls/BuildControls.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/containers/Orders/Orders.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/NavigationItems/NavigationItems.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/actions/burgerBuilder.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/actions/index.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/containers/Auth/Logout/Logout.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/actions/actionTypes.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/hoc/Layout/Layout.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/Toolbar/Toolbar.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/containers/Auth/Auth.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/utility.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Order/Order.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/axios-orders.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/hoc/withErrorHandler/withErrorHandler.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/reducer.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/store/actions.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Input/Input.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Input/Input.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Button/Button.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Button/Button.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/containers/Checkout/ContactData/ContactData.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Spinner/Spinner.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/SideDrawer/SideDrawer.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Backdrop/Backdrop.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Modal/Modal.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Order/CheckoutSummary/CheckoutSummary.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BuildControls/BuildControl/BuildControl.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BurgerIngredient/BurgerIngredient.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Logo/Logo.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BuildControls/BuildControls.css",
+		"/Users/ekaterinaandriushova/Desktop/routing-burger--03-finished/src/components/Order/Order.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Order/Order.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/registerServiceWorker.js",
+		"/Users/ekaterinaandriushova/Desktop/routing-burger--02-query-params/src/registerServiceWorker.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Order/CheckoutSummery/CheckoutSummery.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Order/CheckoutSummery/CheckoutSummary.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Spinner/Spinner.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/Burger.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Layout/Layout.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/Toolbar/Toolbar.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Navigation/NavigationItems/NavigationItems.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Logo/Logo.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Layout/Layout.module.css",
+		"/Users/ekaterinaandriushova/Desktop/burger-logo.png",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BuildControls/BuildControls.module.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/public/manifest.json",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/UI/Backdrop/Backdrop.module.css",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--04-after-modal/src/components/UI/Modal/Modal.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/OrderSummury/OrderSummury.js",
+		"/Users/ekaterinaandriushova/Desktop/Modal.css",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--03-after-build-controls/src/components/Burger/BuildControls/BuildControls.css",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--03-after-build-controls/src/containers/BurgerBuilder/BurgerBuilder.js",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--03-after-build-controls/src/components/Burger/BuildControls/BuildControl/BuildControl.js",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--03-after-build-controls/src/components/Burger/BuildControls/BuildControls.js",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--03-after-build-controls/src/components/Burger/Burger.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BuildControls/BuildControl/BuildControl.module.css",
+		"/Users/ekaterinaandriushova/Desktop/13-build-control-addition.css",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--02-after-ingredients/src/components/Burger/BurgerIngredient/BurgerIngredient.js",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--02-after-ingredients/src/containers/BurgerBuilder/BurgerBuilder.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BurgerIngridient/BurgerIngridient.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BurgerIngridient/BurgerIngridient.css",
+		"/Users/ekaterinaandriushova/Desktop/BurgerIngredient.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BurgerIngridients/BurgerIngridients.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/hoc/Aux.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/package.json",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/components/Burger/BurgerIngridients/BurgerIngridients.js",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--01-after-eject-and-css-modules/package.json",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/src/index.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/public/index.html",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--01-after-eject-and-css-modules/public/index.html",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--01-after-eject-and-css-modules/src/index.css",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--01-after-eject-and-css-modules/src/index.js",
+		"/Users/ekaterinaandriushova/Desktop/burger-basics--01-after-eject-and-css-modules/src/App.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/config/webpack.config.dev.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/burger-react/config/webpack.config.prod.js",
+		"/Users/ekaterinaandriushova/Desktop/cmp-deep-dive-11-refs/src/components/Persons/Persons.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/Components/Persons/Person/Person.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/hoc/withClass.js",
+		"/Users/ekaterinaandriushova/Desktop/cmp-deep-dive-11-refs/src/components/Persons/Person/Person.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/hoc/Aux.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/package.json",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/Components/Persons/Persons.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/components/Cockpit/Cockpit.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/components/Cockpit/Cockpit.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/index.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/Person/Person.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/containers/App.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/Persons/Persons.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/App.js",
+		"/Users/ekaterinaandriushova/Documents/Cockpit.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/Person/Persons.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/ErrorBoundary/ErrorBoundary.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/Person/ErrorBoundary.js",
+		"/Users/ekaterinaandriushova/Desktop/debugging--01-finished/src/ErrorBoundary/ErrorBoundary.js",
+		"/Users/ekaterinaandriushova/Desktop/debugging--01-finished/src/Person/Person.js",
+		"/Users/ekaterinaandriushova/Desktop/debugging--01-finished/src/App.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/Person/Person.css",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/src/App.css",
+		"/Users/ekaterinaandriushova/Desktop/styling--03-finished/src/App.js",
+		"/Users/ekaterinaandriushova/Desktop/styling--02-styled-components/src/App.js",
+		"/Users/ekaterinaandriushova/Desktop/styling--02-styled-components/src/Person/Person.js",
+		"/Users/ekaterinaandriushova/code/Katerina90-tech/react-complete-guide/config/webpack.config.prod.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 26.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"sign",
+				"app/assets/stylesheets/pages/_sign_in_page.scss"
+			],
+			[
+				"dash",
+				"app/views/pages/dashboard.html.erb"
+			],
+			[
+				"applica.cs",
+				"app/assets/stylesheets/application.scss"
+			],
+			[
+				"navbar",
+				"app/views/shared/_navbar.html.erb"
+			],
+			[
+				"navb",
+				"app/assets/stylesheets/components/_navbar.scss"
+			],
+			[
+				"",
+				".browserslistrc"
+			],
+			[
+				"rat",
+				"app/models/rating.rb"
+			],
+			[
+				"das",
+				"app/views/pages/dashboard.html.erb"
+			],
+			[
+				"show",
+				"app/views/activities/show.html.erb"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"car",
+				"app/assets/stylesheets/components/_card.scss"
+			],
+			[
+				"index",
+				"app/views/requests/index.html.erb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application.h",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"app",
+				"app/policies/application_policy.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

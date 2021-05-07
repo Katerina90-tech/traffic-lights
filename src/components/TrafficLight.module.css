@@ -1,0 +1,76 @@
+
+.Container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: grey;
+}
+.Containerred{
+  background-color:#FFD3D3;
+}
+.Containeryellow {
+  background-color:#FFF2C5;
+}
+.Containergreen {
+  background-color:#DDFFE4;
+}
+.Containergreen p {
+  color: #00D12E;
+}
+.Containeryellow p {
+  color: #FFCD1B;
+}
+.Containerred p {
+  color: #FF1B1B;
+}
+div#lightbox.Containergreen  {
+  border-color: #00D12E;
+}
+
+
+.Trafficlight {
+  background-color: white;
+  width: 74px;
+  height: 144px;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 0.5px solid grey;
+  border-radius: 6px;
+}
+
+.Light {
+  width: 24px;
+  height: 24px;
+  border: 1px solid ;
+  border-radius: 50%;
+  margin: auto;
+  padding: 4px;
+  background-color: lightgrey;
+}
+
+.Lightred {
+  background-color:#FF1B1B;
+}
+.Lightyellow {
+  background-color:#FFCD1B;
+}
+.Lightgreen {
+  background-color:#00D12E;
+}
+
+p {
+  align-self: center;
+  padding-top: 10px;
+}
+
+
+
+
+
+
+
+
