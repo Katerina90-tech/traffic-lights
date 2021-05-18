@@ -25,10 +25,6 @@
 .Containerred p {
   color: #FF1B1B;
 }
-div#lightbox.Containergreen  {
-  border-color: #00D12E;
-}
-
 
 .Trafficlight {
   background-color: white;
@@ -40,6 +36,7 @@ div#lightbox.Containergreen  {
   justify-content: space-around;
   border: 0.5px solid grey;
   border-radius: 6px;
+  margin: 0 auto;
 }
 
 .Light {
